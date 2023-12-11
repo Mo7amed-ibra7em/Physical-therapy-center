@@ -1,0 +1,26 @@
+C:\Users\RWDA TECH\Desktop\مركز علاج فيزيائي\ProjectFile\Physiotherapy Center\Physiotherapy Center\bin\Debug\Physiotherapy Center.exe.config
+C:\Users\RWDA TECH\Desktop\مركز علاج فيزيائي\ProjectFile\Physiotherapy Center\Physiotherapy Center\bin\Debug\Physiotherapy Center.exe
+C:\Users\RWDA TECH\Desktop\مركز علاج فيزيائي\ProjectFile\Physiotherapy Center\Physiotherapy Center\bin\Debug\Physiotherapy Center.pdb
+C:\Users\RWDA TECH\Desktop\مركز علاج فيزيائي\ProjectFile\Physiotherapy Center\Physiotherapy Center\bin\Debug\Guna.UI2.dll
+C:\Users\RWDA TECH\Desktop\مركز علاج فيزيائي\ProjectFile\Physiotherapy Center\Physiotherapy Center\obj\Debug\Physiotherapy Center.csproj.AssemblyReference.cache
+C:\Users\RWDA TECH\Desktop\مركز علاج فيزيائي\ProjectFile\Physiotherapy Center\Physiotherapy Center\obj\Debug\Physiotherapy Center.csproj.SuggestedBindingRedirects.cache
+C:\Users\RWDA TECH\Desktop\مركز علاج فيزيائي\ProjectFile\Physiotherapy Center\Physiotherapy Center\obj\Debug\Physiotherapy_Center.Properties.Resources.resources
+C:\Users\RWDA TECH\Desktop\مركز علاج فيزيائي\ProjectFile\Physiotherapy Center\Physiotherapy Center\obj\Debug\Physiotherapy Center.csproj.GenerateResource.cache
+C:\Users\RWDA TECH\Desktop\مركز علاج فيزيائي\ProjectFile\Physiotherapy Center\Physiotherapy Center\obj\Debug\Physiotherapy Center.csproj.CoreCompileInputs.cache
+C:\Users\RWDA TECH\Desktop\مركز علاج فيزيائي\ProjectFile\Physiotherapy Center\Physiotherapy Center\obj\Debug\Physiotherapy Center.csproj.CopyComplete
+C:\Users\RWDA TECH\Desktop\مركز علاج فيزيائي\ProjectFile\Physiotherapy Center\Physiotherapy Center\obj\Debug\Physiotherapy Center.exe
+C:\Users\RWDA TECH\Desktop\مركز علاج فيزيائي\ProjectFile\Physiotherapy Center\Physiotherapy Center\obj\Debug\Physiotherapy Center.pdb
+C:\Users\RWDA TECH\Desktop\مركز علاج فيزيائي\ProjectFile\Physiotherapy Center\Physiotherapy Center\obj\Debug\Physiotherapy_Center.F_AddReport_5.resources
+C:\Users\RWDA TECH\Desktop\مركز علاج فيزيائي\ProjectFile\Physiotherapy Center\Physiotherapy Center\obj\Debug\Physiotherapy_Center.F_Add_Edit_Emp_8.resources
+C:\Users\RWDA TECH\Desktop\مركز علاج فيزيائي\ProjectFile\Physiotherapy Center\Physiotherapy Center\obj\Debug\Physiotherapy_Center.F_DataEntry_2.resources
+C:\Users\RWDA TECH\Desktop\مركز علاج فيزيائي\ProjectFile\Physiotherapy Center\Physiotherapy Center\obj\Debug\Physiotherapy_Center.F_Doctor_3.resources
+C:\Users\RWDA TECH\Desktop\مركز علاج فيزيائي\ProjectFile\Physiotherapy Center\Physiotherapy Center\obj\Debug\Physiotherapy_Center.F_Edit_Salary_9.resources
+C:\Users\RWDA TECH\Desktop\مركز علاج فيزيائي\ProjectFile\Physiotherapy Center\Physiotherapy Center\obj\Debug\Physiotherapy_Center.F_Employee_7.resources
+C:\Users\RWDA TECH\Desktop\مركز علاج فيزيائي\ProjectFile\Physiotherapy Center\Physiotherapy Center\obj\Debug\Physiotherapy_Center.F_Login_1.resources
+C:\Users\RWDA TECH\Desktop\مركز علاج فيزيائي\ProjectFile\Physiotherapy Center\Physiotherapy Center\obj\Debug\Physiotherapy_Center.F_Manager_6.resources
+C:\Users\RWDA TECH\Desktop\مركز علاج فيزيائي\ProjectFile\Physiotherapy Center\Physiotherapy Center\obj\Debug\Physiotherapy_Center.F_Patient_Record_10.resources
+C:\Users\RWDA TECH\Desktop\مركز علاج فيزيائي\ProjectFile\Physiotherapy Center\Physiotherapy Center\obj\Debug\Physiotherapy_Center.F_Privacy_11.resources
+C:\Users\RWDA TECH\Desktop\مركز علاج فيزيائي\ProjectFile\Physiotherapy Center\Physiotherapy Center\obj\Debug\Physiotherapy_Center.F_Therapist_4.resources
+C:\Users\RWDA TECH\Desktop\مركز علاج فيزيائي\ProjectFile\Physiotherapy Center\Physiotherapy Center\obj\Debug\Physiotherapy_Center.NotificationForm.resources
+C:\Users\RWDA TECH\Desktop\مركز علاج فيزيائي\ProjectFile\Physiotherapy Center\Physiotherapy Center\obj\Debug\Physiotherapy_Center.F_About_12.resources
+C:\Users\RWDA TECH\Desktop\مركز علاج فيزيائي\ProjectFile\Physiotherapy Center\Physiotherapy Center\obj\Debug\Physiotherapy_Center.F_Report_13.resources
